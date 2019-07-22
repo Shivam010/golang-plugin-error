@@ -2,7 +2,7 @@
 This is an error-reporting repository, which aims at helping to re-create the error.
 
 ### Error: changing the same plugin file and building it, does not change .so file
-On Changing the plugin code and re-compiling it, the new changes does not add up on opening the newly generated `.so file`.
+On changing the plugin code and re-compiling it, the new changes do not add up on opening the newly generated `.so file`.
 
 Follow the code in [main.go](./main.go) or run the docker [image](./Dockerfile)
 
