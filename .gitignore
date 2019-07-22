@@ -1,0 +1,12 @@
+# IDE files and folders
+.idea
+.vscode
+
+# Program executable
+main
+
+# Extra temporary files
+example.*
+
+# OS specific files
+.DS_Store
